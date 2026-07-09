@@ -1,6 +1,6 @@
 # Penalised Logistic Tree Regression: Algorithmic Credit Scoring
 
-➡️ **[Read the Full Interactive Report & Code Execution][https://abdullahshahzadkhan.github.io/PLTR-Default-Prediction/]**
+➡️ **[Read the Full Interactive Report & Code Execution](https://abdullahshahzadkhan.github.io/PLTR-Default-Prediction/)**
 
 ## 📌 Project Overview
 This project implements a **Penalised Logistic Tree Regression (PLTR)** engine to optimize corporate credit risk scoring. Using financial data from European non-financial corporations (sourced via Refinitiv), the objective was to bridge the gap between highly accurate but uninterpretable "black-box" models (like Random Forests) and highly interpretable but rigid linear models (like Logistic Regression).
